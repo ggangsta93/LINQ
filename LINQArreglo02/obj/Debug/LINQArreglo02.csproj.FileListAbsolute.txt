@@ -1,0 +1,13 @@
+C:\Users\Javier Arias\source\repos\LINQ\LINQArreglo02\bin\Debug\LINQArreglo02.exe.config
+C:\Users\Javier Arias\source\repos\LINQ\LINQArreglo02\bin\Debug\LINQArreglo02.exe
+C:\Users\Javier Arias\source\repos\LINQ\LINQArreglo02\bin\Debug\LINQArreglo02.pdb
+C:\Users\Javier Arias\source\repos\LINQ\LINQArreglo02\obj\Debug\LINQArreglo02.csprojAssemblyReference.cache
+C:\Users\Javier Arias\source\repos\LINQ\LINQArreglo02\obj\Debug\LINQArreglo02.exe
+C:\Users\Javier Arias\source\repos\LINQ\LINQArreglo02\obj\Debug\LINQArreglo02.pdb
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQArreglo02\bin\Debug\LINQArreglo02.exe.config
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQArreglo02\bin\Debug\LINQArreglo02.exe
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQArreglo02\bin\Debug\LINQArreglo02.pdb
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQArreglo02\obj\Debug\LINQArreglo02.csprojAssemblyReference.cache
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQArreglo02\obj\Debug\LINQArreglo02.csproj.CoreCompileInputs.cache
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQArreglo02\obj\Debug\LINQArreglo02.exe
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQArreglo02\obj\Debug\LINQArreglo02.pdb

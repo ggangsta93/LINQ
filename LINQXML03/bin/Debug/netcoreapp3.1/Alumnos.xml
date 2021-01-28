@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Alumnos>
+  <Alumno Nombre="Jose">
+    <Curso>Programacion</Curso>
+    <Calificacion>8</Calificacion>
+  </Alumno>
+  <Alumno Nombre="Susana">
+    <Curso>XML</Curso>
+    <Calificacion>9</Calificacion>
+  </Alumno>
+  <Alumno Nombre="Maria">
+    <Curso>Orientado a objetos</Curso>
+    <Calificacion>10</Calificacion>
+  </Alumno>
+  <Alumno Nombre="Luis">
+    <Curso>UML</Curso>
+    <Calificacion>10</Calificacion>
+  </Alumno>
+</Alumnos>

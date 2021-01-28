@@ -1,0 +1,12 @@
+C:\Users\Javier Arias\source\repos\LINQ\LINQMetodoClase03\bin\Debug\LINQMetodoClase03.exe.config
+C:\Users\Javier Arias\source\repos\LINQ\LINQMetodoClase03\bin\Debug\LINQMetodoClase03.exe
+C:\Users\Javier Arias\source\repos\LINQ\LINQMetodoClase03\bin\Debug\LINQMetodoClase03.pdb
+C:\Users\Javier Arias\source\repos\LINQ\LINQMetodoClase03\obj\Debug\LINQMetodoClase03.exe
+C:\Users\Javier Arias\source\repos\LINQ\LINQMetodoClase03\obj\Debug\LINQMetodoClase03.pdb
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQMetodoClase03\bin\Debug\LINQMetodoClase03.exe.config
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQMetodoClase03\bin\Debug\LINQMetodoClase03.exe
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQMetodoClase03\bin\Debug\LINQMetodoClase03.pdb
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQMetodoClase03\obj\Debug\LINQMetodoClase03.csproj.CoreCompileInputs.cache
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQMetodoClase03\obj\Debug\LINQMetodoClase03.exe
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQMetodoClase03\obj\Debug\LINQMetodoClase03.pdb
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQMetodoClase03\obj\Debug\LINQMetodoClase03.csprojAssemblyReference.cache

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persona>
+    <alumnos>
+        <alumno Nombre="Jose">
+            <curso>Programacion</curso>
+            <calificacion>8</calificacion>
+        </alumno>
+        <alumno Nombre="Susana">
+            <curso>UML</curso>
+            <calificacion>9</calificacion>
+        </alumno>
+        <alumno Nombre="Maria">
+            <curso>Orientado a objetos</curso>
+            <calificacion>10</calificacion>
+        </alumno>
+        <alumno Nombre="Luis">
+            <curso>UML</curso>
+            <calificacion>10</calificacion>
+        </alumno>
+    </alumnos>
+    <Maestros>
+        <Maestro Nombre="Juan">
+            <Curso>Programacion</Curso>
+            <Horario>Completo</Horario>
+        </Maestro>
+        <Maestro Nombre="Denis">
+            <Curso>UML</Curso>
+            <Horario>Medio</Horario>
+        </Maestro>
+        <Maestro Nombre="Sofia">
+            <Curso>Orientado a objetos</Curso>
+            <Horario>Completo</Horario>
+        </Maestro>
+        <Maestro Nombre="Carlos">
+            <Curso>Bases de datos</Curso>
+            <Horario>Medio</Horario>
+        </Maestro>
+    </Maestros>
+</persona>

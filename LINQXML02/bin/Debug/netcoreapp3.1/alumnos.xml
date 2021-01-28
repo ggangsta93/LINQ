@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--listado de alumnos-->
+<?xml-stylesheet href='MyStyles.css', title='Compact', type='text/css'?>
+<Alumnos xmlns="http://nicosio.com">
+  <Ana ID="10100" xmlns="">
+    <Curso>Administracion</Curso>
+    <Promedio>10</Promedio>
+  </Ana>
+  <Luis ID="25350" xmlns="">
+    <!--ESTO_ES_OTRO_COMENTARIO-->
+    <Curso>Programacion</Curso>
+    <Promedio>9.5</Promedio>
+  </Luis>
+</Alumnos>

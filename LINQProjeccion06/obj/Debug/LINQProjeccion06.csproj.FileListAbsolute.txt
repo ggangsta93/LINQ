@@ -1,0 +1,13 @@
+C:\Users\Javier Arias\source\repos\LINQ\LINQProjeccion06\bin\Debug\LINQProjeccion06.exe.config
+C:\Users\Javier Arias\source\repos\LINQ\LINQProjeccion06\bin\Debug\LINQProjeccion06.exe
+C:\Users\Javier Arias\source\repos\LINQ\LINQProjeccion06\bin\Debug\LINQProjeccion06.pdb
+C:\Users\Javier Arias\source\repos\LINQ\LINQProjeccion06\obj\Debug\LINQProjeccion06.exe
+C:\Users\Javier Arias\source\repos\LINQ\LINQProjeccion06\obj\Debug\LINQProjeccion06.pdb
+C:\Users\Javier Arias\source\repos\LINQ\LINQProjeccion06\obj\Debug\LINQProjeccion06.csprojAssemblyReference.cache
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQProjeccion06\bin\Debug\LINQProjeccion06.exe.config
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQProjeccion06\bin\Debug\LINQProjeccion06.exe
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQProjeccion06\bin\Debug\LINQProjeccion06.pdb
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQProjeccion06\obj\Debug\LINQProjeccion06.csprojAssemblyReference.cache
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQProjeccion06\obj\Debug\LINQProjeccion06.csproj.CoreCompileInputs.cache
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQProjeccion06\obj\Debug\LINQProjeccion06.exe
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQProjeccion06\obj\Debug\LINQProjeccion06.pdb

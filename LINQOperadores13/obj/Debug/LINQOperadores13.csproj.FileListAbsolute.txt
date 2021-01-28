@@ -1,0 +1,13 @@
+C:\Users\Javier Arias\source\repos\LINQ\LINQOperadores13\bin\Debug\LINQOperadores13.exe.config
+C:\Users\Javier Arias\source\repos\LINQ\LINQOperadores13\bin\Debug\LINQOperadores13.exe
+C:\Users\Javier Arias\source\repos\LINQ\LINQOperadores13\bin\Debug\LINQOperadores13.pdb
+C:\Users\Javier Arias\source\repos\LINQ\LINQOperadores13\obj\Debug\LINQOperadores13.csprojAssemblyReference.cache
+C:\Users\Javier Arias\source\repos\LINQ\LINQOperadores13\obj\Debug\LINQOperadores13.exe
+C:\Users\Javier Arias\source\repos\LINQ\LINQOperadores13\obj\Debug\LINQOperadores13.pdb
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQOperadores13\bin\Debug\LINQOperadores13.exe.config
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQOperadores13\bin\Debug\LINQOperadores13.exe
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQOperadores13\bin\Debug\LINQOperadores13.pdb
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQOperadores13\obj\Debug\LINQOperadores13.csprojAssemblyReference.cache
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQOperadores13\obj\Debug\LINQOperadores13.csproj.CoreCompileInputs.cache
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQOperadores13\obj\Debug\LINQOperadores13.exe
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQOperadores13\obj\Debug\LINQOperadores13.pdb

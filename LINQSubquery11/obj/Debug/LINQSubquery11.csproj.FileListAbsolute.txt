@@ -1,0 +1,13 @@
+C:\Users\Javier Arias\source\repos\LINQ\LINQSubquery11\bin\Debug\LINQSubquery11.exe.config
+C:\Users\Javier Arias\source\repos\LINQ\LINQSubquery11\bin\Debug\LINQSubquery11.exe
+C:\Users\Javier Arias\source\repos\LINQ\LINQSubquery11\bin\Debug\LINQSubquery11.pdb
+C:\Users\Javier Arias\source\repos\LINQ\LINQSubquery11\obj\Debug\LINQSubquery11.exe
+C:\Users\Javier Arias\source\repos\LINQ\LINQSubquery11\obj\Debug\LINQSubquery11.pdb
+C:\Users\Javier Arias\source\repos\LINQ\LINQSubquery11\obj\Debug\LINQSubquery11.csprojAssemblyReference.cache
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQSubquery11\bin\Debug\LINQSubquery11.exe.config
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQSubquery11\bin\Debug\LINQSubquery11.exe
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQSubquery11\bin\Debug\LINQSubquery11.pdb
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQSubquery11\obj\Debug\LINQSubquery11.csprojAssemblyReference.cache
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQSubquery11\obj\Debug\LINQSubquery11.csproj.CoreCompileInputs.cache
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQSubquery11\obj\Debug\LINQSubquery11.exe
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQSubquery11\obj\Debug\LINQSubquery11.pdb

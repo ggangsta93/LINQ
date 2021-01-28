@@ -1,0 +1,13 @@
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQXML03\bin\Debug\netcoreapp3.1\LINQXML03.exe
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQXML03\bin\Debug\netcoreapp3.1\LINQXML03.deps.json
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQXML03\bin\Debug\netcoreapp3.1\LINQXML03.runtimeconfig.json
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQXML03\bin\Debug\netcoreapp3.1\LINQXML03.runtimeconfig.dev.json
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQXML03\bin\Debug\netcoreapp3.1\LINQXML03.dll
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQXML03\bin\Debug\netcoreapp3.1\LINQXML03.pdb
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQXML03\obj\Debug\netcoreapp3.1\LINQXML03.csproj.CoreCompileInputs.cache
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQXML03\obj\Debug\netcoreapp3.1\LINQXML03.AssemblyInfoInputs.cache
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQXML03\obj\Debug\netcoreapp3.1\LINQXML03.AssemblyInfo.cs
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQXML03\obj\Debug\netcoreapp3.1\LINQXML03.dll
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQXML03\obj\Debug\netcoreapp3.1\LINQXML03.pdb
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQXML03\obj\Debug\netcoreapp3.1\LINQXML03.genruntimeconfig.cache
+C:\Users\Javier Arias\Desktop\repos-20200412T203141Z-001\repos\LINQ\LINQXML03\obj\Debug\netcoreapp3.1\LINQXML03.csprojAssemblyReference.cache
